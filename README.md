@@ -9,7 +9,10 @@ Dichotomy root finding code. It can find at most two solutions at one time. Ther
 
 
 ### Parameter instructions
-  fn is your function, and it -fn also should be given as fn_anti.\\
-  min0 is the left side of your section, and max0 is right one.\\
-  nitermax is the maximum number of iteration, No matter if sloution is found or not .\\
+  fn is your function, and it -fn also should be given as fn_anti.
+  
+  min0 is the left side of your section, and max0 is right one.
+  
+  nitermax is the maximum number of iteration, No matter if sloution is found or not .
+  
   eps is the accuracy of "f(x)=0".
